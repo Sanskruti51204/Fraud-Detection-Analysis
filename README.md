@@ -1,7 +1,5 @@
 # Fraud-Detection-Analysis
 Fraud Detection Analysis using Data Visualization and SQL
-# Fraud Detection Analysis
-
 ## Project Overview
 This project analyzes financial transactions to identify potential fraudulent activities.
 
